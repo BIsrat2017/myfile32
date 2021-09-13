@@ -1,0 +1,12 @@
+uwdox.mysql.database.azure.com -server
+UWBAdmin -username
+UWBothell2020 -pass
+
+
+
+-------------------------
+Website
+repository : https://www.dropbox.com/home  
+host :azure 
+website : https://doxsite.azurewebsites.net/
+
